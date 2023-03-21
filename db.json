@@ -1,10 +1,16 @@
 {
     "users": [
-  {
+   {
     "UserName": "Roshan Chimkar",
     "Email": "roshan@gmail.com",
     "Password": "Roshan1257",
     "id": 1
+  },
+  {
+    "UserName": "sumit121",
+    "Email": "sumitchimkar0@gmail.com",
+    "Password": "1234",
+    "id": 2
   }
 ],
     "recipes": []
